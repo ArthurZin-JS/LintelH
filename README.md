@@ -25,7 +25,7 @@ php artisan down
 ### Passo 2 — Baixar o tema
 
 ```bash
-curl -L https://github.com/SEU-USUARIO/SEU-REPOSITORIO/releases/latest/download/panel.tar.gz | tar -xzv
+curl -L https://github.com/ArthurZin-JS/LintelH/releases/download/1.0/panel.tar.gz | tar -xzv
 ```
 
 Depois de baixar os arquivos, ajuste as permissões das pastas de cache e storage:
